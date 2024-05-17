@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gamin8ing
+- 👋 Hi, I’m Bhavya Gupta (aka Gamin8ing), I am a first year student from IIIT Allahabad
 - 👀 I’m interested in gamedev, gaming and space
 - 🌱 I’m currently learning Unity3D, C#
 - 💞️ I’m looking to collaborate on nothing, LOL
