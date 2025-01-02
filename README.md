@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhavya</h1>
 <h3 align="center">A passionate sophomore studying in IIIT Allahabad, India</h3>
 
-- 🔭 I’m currently working on [Effervescence '24](https://github.com/Gamin8ing/GoEffervescence24)
-
-- 🌱 I’m currently learning **Unity, C#, DSA**
-
+- 🔭 I’m currently mentoring in **OpenCode'24**
+- 🌱 I’m currently learning **graphics programming (opengl)**
 - 💬 Ask me about **react, css**
-
 - 📫 How to reach me **bhavya23gupta06@gmail.com**
-
-- ⚡ Fun fact **I talk much**
+- ⚡ Fun fact **I talk much about games, cars, and tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
