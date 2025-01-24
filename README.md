@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bhavya</h1>
 <h3 align="center">A passionate sophomore studying in IIIT Allahabad, India</h3>
 
-- 🔭 I’m currently mentoring in **OpenCode'24**
-- 🌱 I’m currently learning **graphics programming (opengl)**
-- 💬 Ask me about **react, css**
-- 📫 How to reach me **bhavya23gupta06@gmail.com**
+- 🔭 I’m currently working on **[the WavesGamejam Game](https://github.com/Gamin8ing/WavesGameJam)**
+- 🌱 I’m currently making projects in **C/C++**, and learning **graphics programming**
+- 💬 Intrigue me with an **interesting question**
+- 📫 How to reach me **bhavya23gupta06@gmail.com**, or **gamin8ing** on discord
 - ⚡ Fun fact **I talk much about games, cars, and tech**
 
 <h3 align="left">Connect with me:</h3>
