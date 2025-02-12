@@ -18,3 +18,5 @@ I love learning new things, exploring new ideas, and constantly pondering over s
 ---
 
 <img src="https://raw.githubusercontent.com/Gamin8ing/Gamin8ing/output/snake.svg" alt="Snake animation" />
+
+###
