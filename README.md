@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/1ce02bf5-ca87-4a1b-b5db-f3b442453146)
 
 ## 🚀 About Me
 
