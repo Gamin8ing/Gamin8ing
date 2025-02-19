@@ -16,6 +16,8 @@ I love learning new things, exploring new ideas, and constantly pondering over s
 
 ---
 
+## Enjoy the snake eating my contri graph
+
 ![snake eating](https://github.com/Gamin8ing/Gamin8ing/blob/output/snake.svg)
 
 ###
