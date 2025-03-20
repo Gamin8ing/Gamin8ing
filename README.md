@@ -1,7 +1,9 @@
+![image](https://github.com/user-attachments/assets/e96e1f24-2f23-4422-ba21-57c10df34ea0)
+
 
 ## 🚀 About Me
 
-I'm currently pursuing my **B.Tech. in Information Technology (2023-27)**.  
+I'm currently pursuing my **B.Tech. in Information Technology (2023-27)** from **IIIT Allahabad, India**.  
 I love learning new things, exploring new ideas, and constantly pondering over something interesting.
 
 🎮 **Games**? I could talk about them all day! Got something cool? **Hit me up!**
