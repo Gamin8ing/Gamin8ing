@@ -14,7 +14,7 @@ I love learning new things, exploring new ideas, and constantly pondering over s
 ## 📫 Connect With Me
 
 - **📧 Email:** [bhavya23gupta06@gmail.com](mailto:bhavya23gupta06@gmail.com)
-- **💬 Discord:** gamin8ing
+- **💬 Discord:** gamin8ing (pronounced as gami-nating)
 - **💼 LinkedIn:** [bhavya-23-gupta](https://linkedin.com/in/bhavya-23-gupta)
 
 ---
