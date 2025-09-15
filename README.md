@@ -1,3 +1,5 @@
+<!--
+
 ![image](https://github.com/user-attachments/assets/b362e7da-1aec-496e-b0f5-970970e99e00)
 
 
@@ -24,3 +26,6 @@ I love learning new things, exploring new ideas, and constantly pondering over s
 ![snake eating](https://github.com/Gamin8ing/Gamin8ing/blob/output/snake.svg)
 
 ###
+
+-->
+booting from floppy disk...
